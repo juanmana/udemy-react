@@ -1,0 +1,1 @@
+export const NOTAS_STORAGE = 'nota-lt'
